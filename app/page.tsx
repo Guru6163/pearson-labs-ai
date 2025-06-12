@@ -85,7 +85,7 @@ export default function PearsonAILanding() {
               <div className="text-gray-600">Accuracy Rate</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold mb-2">500+</div>
+              <div className="text-4xl font-bold mb-2">2+</div>
               <div className="text-gray-600">Law Firms</div>
             </div>
           </div>
@@ -235,11 +235,11 @@ export default function PearsonAILanding() {
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16">
             <div className="text-center">
-              <div className="text-4xl font-bold mb-2">500+</div>
+              <div className="text-4xl font-bold mb-2">2+</div>
               <div className="text-gray-600">Law Firms</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold mb-2">10M+</div>
+              <div className="text-4xl font-bold mb-2">100+</div>
               <div className="text-gray-600">Documents Processed</div>
             </div>
             <div className="text-center">
@@ -363,33 +363,6 @@ export default function PearsonAILanding() {
                 </div>
               </CardContent>
             </Card>
-          </div>
-        </div>
-      </section>
-
-      <section className="px-6 py-16 bg-gradient-to-r from-blue-900 to-purple-900 text-white">
-        <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold mb-6">
-            Ready to Transform Your Legal Practice?
-          </h2>
-          <p className="text-xl mb-8 opacity-90">
-            Join hundreds of forward-thinking law firms already using Pearson AI
-            to revolutionize their workflow.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button
-              size="lg"
-              className="bg-white text-blue-900 hover:bg-gray-100"
-            >
-              Start Free Trial
-            </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="border-white text-white hover:bg-white hover:text-blue-900"
-            >
-              Schedule Demo
-            </Button>
           </div>
         </div>
       </section>
